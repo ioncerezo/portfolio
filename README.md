@@ -7,6 +7,8 @@ Vista previa del proyecto: https://ioncerezo.netlify.app/
 
 ![Pantallazo del lproyecto](https://i.imgur.com/yOyembi.png)
 
+![Pantallazo del lproyecto](https://i.imgur.com/tiGtChw.png)
+
 Características
 --------
 
