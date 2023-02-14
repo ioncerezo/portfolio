@@ -5,7 +5,7 @@ Paǵina web personal de tipo portfolio construida para hablar sobre mí y enseñ
 
 Vista previa del proyecto: https://ioncerezo.netlify.app/
 
-![Alt text](https://imgur.com/yOyembi)
+![Pantallazo del lproyecto](https://i.imgur.com/yOyembi.png)
 
 Características
 --------
