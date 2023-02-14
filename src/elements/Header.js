@@ -2,6 +2,7 @@ import { MdEmail  , MdDashboard} from 'react-icons/md';
 import {AiFillGithub} from 'react-icons/ai'
 import {FaArrowDown} from 'react-icons/fa'
 import {RiContactsFill} from 'react-icons/ri'
+import { SiCodewars } from "react-icons/si";
 import CV from '../data/CV Ion Cerezo Valero.pdf'
 import { useState } from 'react';
 
@@ -14,8 +15,8 @@ function Header() {
       <div className=' w-full md:max-w-4xl xl:max-w-5xl'>
         <h1 className='text-[32px] xl:text-[58px] md:text-[48px] font-bold leading-normal mb-5'>
           Soy <span className='bg-black text-[#F2F2F2] px-1'>Ion Cerezo</span> y estoy
-          buscando mi primer trabajo como {' '}
-          <span className='bg-black underline text-[#F2F2F2] px-1'>desarrollador Full Stack</span> .
+          buscando mi primer trabajo como desarrollador {' '}
+          <span className='bg-black underline text-[#F2F2F2] px-1'>Full Stack</span>
         </h1>
         <ul className='flex flex-wrap items-center gap-10 md:gap-12 lg:gap-14 xl:gap-16 lg:text-xl lg:mt-10 font-mono'>
           <li>
@@ -27,6 +28,17 @@ function Header() {
             >
               <AiFillGithub className='text-black text-2xl' />
               GitHub.
+            </a>
+          </li>
+          <li>
+            <a
+              className='flex gap-2 items-center hover:underline'
+              href='https://www.codewars.com/users/ioncerezo'
+              rel='noreferrer'
+              target='_blank'
+            >
+              <SiCodewars className='text-black text-2xl' />
+              Codewars.
             </a>
           </li>
           <li>
