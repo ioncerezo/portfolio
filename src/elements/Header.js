@@ -75,7 +75,7 @@ function Header() {
               <div className='absolute select-none pl-1 text-base lg:text-lg text-center'>
               <div className='px-2 pt-2 lg:pb-2 pb-1 font-bold hover:underline'>
                 <a
-                href='https://mnf.red/4a0e7dd0-31cd-460f-9b72-5dd4aa08f255/classic'
+                href='https://boggy-lunge-2dd.notion.site/Ion-Cerezo-Valero-5ebd74140d0b4164902558d43c72b51a'
                 rel='noreferrer'
                 target='_blank'
                 >CV Online</a></div>
