@@ -2,7 +2,7 @@ import { MdEmail  , MdDashboard} from 'react-icons/md';
 import {AiFillGithub} from 'react-icons/ai'
 import {FaArrowDown} from 'react-icons/fa'
 import {RiContactsFill} from 'react-icons/ri'
-import { SiCodewars } from "react-icons/si";
+import { BsLinkedin } from "react-icons/bs";
 import CV from '../data/CV Ion Cerezo Valero.pdf'
 import { useState } from 'react';
 
@@ -33,12 +33,12 @@ function Header() {
           <li>
             <a
               className='flex gap-2 items-center hover:underline'
-              href='https://www.codewars.com/users/ioncerezo'
+              href='https://www.linkedin.com/in/ioncerezo/'
               rel='noreferrer'
               target='_blank'
             >
-              <SiCodewars className='text-black text-2xl' />
-              Codewars.
+              <BsLinkedin className='text-black text-2xl' />
+              LinkedIn.
             </a>
           </li>
           <li>
